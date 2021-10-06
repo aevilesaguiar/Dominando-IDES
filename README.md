@@ -339,3 +339,6 @@ git config --list
 🔹<strong>10.</strong> Pronto, git instalado e configurado com sucesso!
 
 <br><br>
+
+
+🔹 <strong>1.</strong> Créditos: <a href="https://github.com/cami-la/curso-dio-dominando-ides-java"><strong>Professora Camila</strong></a>
